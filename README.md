@@ -73,4 +73,5 @@ This project was developed as part of a diploma curriculum under the guidance of
 > **Institute**: Bharati Vidyapeeth Institute of Technology  
 > **Academic Year**: 2021-2022  
 > **Published in IJARSCT**: DOI: [10.48175/IJARSCT-3830](https://doi.org/10.48175/IJARSCT-3830)
+> **Certificate: (https://drive.google.com/file/d/18jFMb84IMfPPaMaPBdEVyYNsg80evEh9/view?usp=sharing)
 
