@@ -30,6 +30,7 @@ Imagine you’ve forgotten your phone at home and urgently need a contact number
 
 ## Screenshorts Of Application
 
+![1 SplashScreen](https://github.com/user-attachments/assets/0f2232a4-30b8-4ee1-92c4-21b20742ed38)
 
 
 ## 🛠 Requirements
