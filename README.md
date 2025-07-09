@@ -83,6 +83,11 @@ Imagine you’ve forgotten your phone at home and urgently need a contact number
 - Fetch mobile tower location using OpenCellId
 - Support MongoDB for cloud storage
 
+## 👨‍💻 Developed By
+
+- Ayush Sunil Upase
+- Aditya Avinash Thosar
+
 ## 📜 License
 
 This project was developed as part of a diploma curriculum under the guidance of **Prof. Mithun Mhatre**, Department of Computer Technology, Bharati Vidyapeeth Institute of Technology, Navi Mumbai.
