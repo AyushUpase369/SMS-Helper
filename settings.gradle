@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pluginManagement {
     repositories {
         gradlePluginPortal()
@@ -16,3 +17,23 @@ dependencyResolutionManagement {
 }
 rootProject.name = "SMS Helper"
 include ':app'
+=======
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven {
+            url "https://jitpack.io"
+        }
+    }
+}
+rootProject.name = "SMS Helper"
+include ':app'
+>>>>>>> d02513a (sms helper)

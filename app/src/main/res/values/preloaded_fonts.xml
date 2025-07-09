@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amaranth_bold</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/arima_madurai_bold</item>
+        <item>@font/arima_madurai_light</item>
+        <item>@font/arima_madurai_medium</item>
+        <item>@font/chivo_bold</item>
+        <item>@font/poppins</item>
+        <item>@font/poppins_extrabold</item>
+        <item>@font/poppins_thin</item>
+        <item>@font/tienne_black</item>
+    </array>
+</resources>

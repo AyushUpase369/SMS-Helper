@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Background_color"
+    android:scrollbars="none">
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/Background_color">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/con_layout_access_contact_steps"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="top"
+            android:background="@drawable/instructions_linear_layout_bg">
+
+            <LinearLayout
+                android:id="@+id/access_location_tittle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:orientation="horizontal"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <TextView
+                    android:id="@+id/text_title_contact_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:layout_margin="10dp"
+                    android:fontFamily="@font/arima_madurai_bold"
+                    android:text="Mute or Unmute Mobile"
+                    android:textColor="@color/primary"
+                    android:textSize="28dp"
+                    tools:ignore="RtlCompat" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/contact_access_up"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="end"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="5dp"
+                android:src="@drawable/ic_close"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?attr/selectableItemBackground"
+                app:layout_constraintBottom_toBottomOf="@+id/access_location_tittle"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.05" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:background="#c0c0c0"
+                app:layout_constraintBottom_toTopOf="@+id/linearLayout7"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/access_location_tittle"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <LinearLayout
+                android:id="@+id/linearLayout7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:orientation="vertical"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/access_location_tittle">
+
+
+                <TextView
+                    android:id="@+id/text_steps_contact_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/poppins_medium"
+                    android:gravity="start"
+                    android:text="Step 1 :-"
+                    android:textColor="@color/primary"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:id="@+id/text_desc_contact_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginStart="90dp"
+                    android:layout_marginTop="1dp"
+                    android:layout_marginEnd="10dp"
+                    android:fontFamily="@font/arima_madurai_medium"
+                    android:gravity="start"
+                    android:text="Take your friends mobile and open message application."
+                    android:textColor="#FFFFFF"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:id="@+id/text_steps_contact_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginTop="14dp"
+                    android:fontFamily="@font/poppins_medium"
+                    android:gravity="start"
+                    android:text="Step 2 :-"
+                    android:textColor="@color/primary"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:id="@+id/text_desc_contact_5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginStart="90dp"
+                    android:layout_marginTop="1dp"
+                    android:layout_marginEnd="10dp"
+                    android:fontFamily="@font/arima_madurai_medium"
+                    android:gravity="start"
+                    android:text="Send an sms on your mobile number with the syntax of changing sound profile to mute or unmute."
+                    android:textColor="#FFFFFF"
+                    android:textSize="12dp" />
+
+
+                <TextView
+                    android:id="@+id/text_steps_contact_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginTop="14dp"
+                    android:fontFamily="@font/poppins_medium"
+                    android:gravity="start"
+                    android:text="Step 3 :-"
+                    android:textColor="@color/primary"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:id="@+id/text_desc_contact"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginStart="90dp"
+                    android:layout_marginTop="1dp"
+                    android:layout_marginEnd="10dp"
+                    android:fontFamily="@font/arima_madurai_medium"
+                    android:gravity="start"
+                    android:text="After all your work is done don't forget to stop sms helper using stop syntax."
+                    android:textColor="#FFFFFF"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:id="@+id/text_steps_mute_or_unmute"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_marginTop="20dp"
+                    android:fontFamily="@font/poppins_medium"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:foreground="?attr/selectableItemBackground"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:text="Click here for Syntax"
+                    android:textColor="@color/primary"
+                    android:textSize="18dp" />
+
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="#c0c0c0" />
+
+                <TextView
+                    android:id="@+id/text_steps_contact_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginTop="10dp"
+                    android:fontFamily="@font/arima_madurai_bold"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:text="Note"
+                    android:textColor="@color/primary"
+                    android:textSize="18dp" />
+
+                <View
+                    android:layout_width="45dp"
+                    android:layout_height="2dp"
+                    android:layout_gravity="center_vertical|center_horizontal"
+                    android:layout_marginTop="-4dp"
+                    android:background="@color/primary" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/text_desc_contact_9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginStart="30dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginEnd="30dp"
+                        android:layout_marginBottom="20dp"
+                        android:fontFamily="@font/arima_madurai_medium"
+                        android:gravity="center_horizontal|center_vertical"
+                        android:text=" * "
+                        android:textColor="#FFFFFF"
+                        android:textSize="13dp" />
+
+                </LinearLayout>
+
+
+                <TextView
+                    android:id="@+id/text_desc_contact_7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginStart="50dp"
+                    android:layout_marginTop="-45dp"
+                    android:layout_marginEnd="30dp"
+                    android:layout_marginBottom="20dp"
+                    android:fontFamily="@font/arima_madurai_medium"
+                    android:gravity="start|center_vertical"
+                    android:text="If your mobile is out of range than sms helper application will not work."
+                    android:textColor="#FFFFFF"
+                    android:textSize="13dp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-10dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/text_desc_contact_12"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginStart="30dp"
+                        android:layout_marginEnd="30dp"
+                        android:layout_marginBottom="20dp"
+                        android:fontFamily="@font/arima_madurai_medium"
+                        android:gravity="center_horizontal|center_vertical"
+                        android:text=" * "
+                        android:textColor="#FFFFFF"
+                        android:textSize="13dp" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/text_desc_contact_8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginStart="50dp"
+                    android:layout_marginTop="-45dp"
+                    android:layout_marginEnd="30dp"
+                    android:layout_marginBottom="20dp"
+                    android:fontFamily="@font/arima_madurai_medium"
+                    android:gravity="start|center_vertical"
+                    android:text="If your mobile is in range and you have sended sms with proper syntax than, sms helper application will mute or unmute your mobile according to your request."
+                    android:textColor="#FFFFFF"
+                    android:textSize="13dp" />
+
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginBottom="20dp"
+                    android:background="#c0c0c0" />
+
+
+            </LinearLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </FrameLayout>
+</ScrollView>
+

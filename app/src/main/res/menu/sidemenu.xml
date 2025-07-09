@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/home_menus"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home_menu"
+            android:icon="@drawable/ic_home"
+            android:title="Home"/>
+
+    </group>
+
+
+    <group
+        android:id="@+id/profile_menus"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile_menu"
+            android:icon="@drawable/ic_person"
+            android:title="Profile" />
+    </group>
+
+
+    <group
+        android:id="@+id/permissions_menus"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/permissions_menu"
+            android:icon="@drawable/ic_permission"
+            android:title="Permissions" />
+
+    </group>
+
+
+    <group
+        android:id="@+id/security_menus"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/security_menu"
+            android:icon="@drawable/ic_security"
+            android:title="Security" />
+
+    </group>
+
+
+    <group
+        android:id="@+id/about_us_menus"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/about_us_menu"
+            android:icon="@drawable/ic_about_us"
+            android:title="About us" />
+    </group>
+
+
+    <group
+        android:id="@+id/Help_menus"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/Help_menu"
+            android:icon="@drawable/ic_help"
+            android:title="Help" />
+    </group>
+
+
+    <!--    <group android:checkableBehavior="single">-->
+    <!--        <item-->
+    <!--            android:id="Home_menu"-->
+    <!--            android:icon="@drawable/ic_home"-->
+    <!--            android:title="Home"/>-->
+    <!--    </group>-->
+
+</menu>

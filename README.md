@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SMS Helper || For Offline Use 📱
 
 SMS Helper is an **Android application** that helps users interact with their lost or forgotten phone using **offline SMS commands**. It is specially designed for emergency scenarios where internet access is not available.
@@ -96,3 +97,6 @@ This project was developed as part of a diploma curriculum under the guidance of
 ---
 > **Certificate**: (https://drive.google.com/file/d/18jFMb84IMfPPaMaPBdEVyYNsg80evEh9/view?usp=sharing)
 
+=======
+# SMS-Helper
+>>>>>>> d02513a (sms helper)

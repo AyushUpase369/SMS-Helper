@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable-v24/bg_round.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable-v24/bg_view_blue_m_pin.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable-v24/bg_view_grey_m_pin.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable-v24/bg_view_red_m_pin.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable-v24/ic_icons_protect.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable-v24/ic_off_btn.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable-v24/ic_on_btn.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable-v24/selector.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/app_background_logo.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/app_newlogo_background.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/background_successfull_animation.xml" value="0.1" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/bg_cont_into_cont.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/bg_logout.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/big_logout_btn_app_bar.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/btn_get_otp_bg.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/create_pass_continue.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/custom_bnt.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/edit_logo.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/fefresh_btn.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/forget_gmail_icon.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/forget_phone_icon.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_about_us.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_arrow_down.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_arrow_right.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_back_arrow.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_back_email.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_bottom_btn_2.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_bottomm_btn.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_check.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_close.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_contact_list_animate.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_cross.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_email.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_enter_otp_animate.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_enter_otp_animate__1_.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_faces.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_forgot_password_animate.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_help.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_home.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_icons_bell_instruction.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_icons_location_instruction.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_icons_muteunmute_instruction.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_icons_person_instruction.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_launcher_background.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_log_out_img.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_logout_btn_app_bar.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_mail_sent_animate.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_menu.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_mobile_sound_animate.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_mobile_user_animate.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_navigation_animate.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_no_wifi.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_no_wifi_error.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_otp_email_animate.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_password.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_permission.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_person.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_phone.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_profile.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_profile_icon.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_reset_m_pin.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_reset_password.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_security.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_sms_logo.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_syntax.xml" value="0.1075" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_vertical_line.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/ic_welcome_animate.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/instructions_linear_layout_bg.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/mob_num_bg.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/no_connection_bg.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/no_connection_btn.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/profile_bg.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/tab_indicator.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/drawable/vie_bg.xml" value="0.147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/activity_create_new_password.xml" value="0.15648148148148147" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/activity_enter_old_mpin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/activity_forget_pass_verify_otp.xml" value="0.1" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/activity_re_enter_mpin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/fragment_all_syntax.xml" value="0.22" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/fragment_all_syntax_syntax.xml" value="0.67" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/fragment_contact_syntax.xml" value="0.25" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/fragment_home_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/fragment_location_syntax.xml" value="0.33" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/fragment_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/fragment_mute_or_unmute_syntax.xml" value="0.33" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/fragment_permissions.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/fragment_profile_screens.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/fragment_ring_syntax.xml" value="0.33" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/fragment_security_fragment.xml" value="0.22" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/fragment_setps_for_accessing_contact.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/headerfile.xml" value="0.1" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/layout_update_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/layout/m_pin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/SMSHelper/app/src/main/res/menu/sidemenu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#5D47E3"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/chivo_bold"
+        android:gravity="center"
+        android:text="Service"
+        android:textStyle="italic"
+        android:textColor="@color/white"
+        android:textSize="28dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/arima_madurai_medium"
+        android:gravity="center"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:text="Keep the service on for using the features of the app."
+        android:textColor="@color/white"
+        android:textSize="14dp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:background="#00000000"
+        android:drawableStart="@drawable/selector"
+        android:gravity="center_vertical|center_horizontal"
+        android:textOff=""
+        android:textOn=""
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/arima_madurai_medium"
+        android:gravity="start"
+        android:textStyle="italic"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="25dp"
+        android:text="Version 0.1"
+        android:textColor="@color/white"
+        android:textSize="14dp" />
+
+</LinearLayout>

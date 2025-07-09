@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SMS Helper</string>
+
+
+
+    //Headings
+    <string name="heading_one">Remotly Access Your Mobile Without Internet</string>
+    <string name="heading_two">Remotly Access Your Contacts list</string>
+    <string name="heading_three">Remotly Change Sound Profile</string>
+    <string name="heading_fourth">Track Your Phone Without Internet</string>
+
+    //description
+    <string name="desc_one">An app can access information of mobile without using internet its totally offline by SMS to you Mobile.</string>
+    <string name="desc_two">An easy way to access your phone’s contact at anytime, anywhere just through a simple SMS.</string>
+    <string name="desc_three">An sms can help you to change the sound profile of your phone (silent to ringing) without Internet through SMS.</string>
+    <string name="desc_fourth">An app can access location of mobile without using internet its totally offline by SMS to you Mobile.</string>
+
+    //Reset Email
+    <string name="desc_email">Enter the email associated with your account.</string>
+    <string name="desc_email_otp">We have send one time password to your email id.</string>
+
+    <string name="desc_create_pass">Your new password must be different from previous used passwords.</string>
+
+    <string name="desc_email_btn">Enter the email associated with your account, and we will send an email with one time password to reset your password.</string>
+    <string name="desc_phone_btn">Enter the mobile number associated with your account, and we will send an one time password on your device, to reset your password.</string>
+
+    <style name="Toolbartheme" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:fontFamily">@font/poppins_bold</item>
+        <item name="android:textSize">30dp</item>
+        <!--        <item name="android:fontFamily">@font/architects_daughter</item>-->
+    </style>
+
+    <string name="navigation_open">Open navigation drawer</string>
+    <string name="navigation_close">Close navigation drawer</string>
+    <string name="username">Username</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

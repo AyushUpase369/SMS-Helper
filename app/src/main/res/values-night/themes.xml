@@ -1,0 +1,47 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SMSHelper" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+    </style>
+
+
+    <style name="Theme.SMSHelper.NoActionBar"  parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="android:textSize">16sp</item>
+        <item name="android:listPreferredItemHeightSmall">40dp</item>
+        <item name="listPreferredItemHeightSmall">40dp</item>
+        <item name="fontFamily">@font/poppins_medium</item>
+
+        <!-- item padding left in menu-->
+        <item name="android:listPreferredItemPaddingLeft">18dp</item>
+        <item name="listPreferredItemPaddingLeft">18dp</item>
+
+        <!-- item padding right in menu-->
+        <item name="android:listPreferredItemPaddingRight">18dp</item>
+        <item name="listPreferredItemPaddingRight">18dp</item>
+
+        <item name="android:listPreferredItemPaddingStart">18dp</item>
+        <item name="listPreferredItemPaddingStart">18dp</item>
+
+        <item name="android:listPreferredItemPaddingEnd">18dp</item>
+        <item name="listPreferredItemPaddingEnd">18dp</item>
+    </style>
+
+    <style name="DialogStyle" parent="Theme.AppCompat.Dialog">
+
+        <item name="android:windowMinWidthMajor">100%</item>
+        <item name="android:windowMinWidthMinor">100%</item>
+
+    </style>
+</resources>

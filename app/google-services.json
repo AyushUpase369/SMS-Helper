@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790440325344",
+    "project_id": "sms-helper-4a7c6",
+    "storage_bucket": "sms-helper-4a7c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790440325344:android:6624da298a7f02fe38a085",
+        "android_client_info": {
+          "package_name": "com.example.smshelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790440325344-cl4gi7uqj1sh5ug1u2grfqt7lmrvdivi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo-K0iGAxSMjvQnemBTILxPV4ctBBnv-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790440325344-cl4gi7uqj1sh5ug1u2grfqt7lmrvdivi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
