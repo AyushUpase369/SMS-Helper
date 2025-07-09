@@ -30,8 +30,8 @@ Imagine you’ve forgotten your phone at home and urgently need a contact number
 
 ## Screenshorts Of Application
 
-![1 SplashScreen](https://github.com/user-attachments/assets/a0e68e9b-ea5b-4bc0-a9c9-82933580b4ea)
-![2 Intro1](https://github.com/user-attachments/assets/85a5fa24-82c4-428f-8791-4fac9a51eda2)
+![1 SplashScreen](https://github.com/user-attachments/assets/9c016191-33f3-4733-b652-e41ea4cb498e)
+![2 Intro1](https://github.com/user-attachments/assets/4b3156cd-69e6-455b-9847-851d462d0e44)
 ![3 Intro2](https://github.com/user-attachments/assets/de938081-1d86-481a-a99f-63a284d2b751)
 ![4 Intro3](https://github.com/user-attachments/assets/5fe57018-26d7-4a72-ac94-119ed16487e6)
 ![5 Intro4](https://github.com/user-attachments/assets/93930843-dd8e-42b9-9727-ca242670cfda)
