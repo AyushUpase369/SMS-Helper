@@ -28,7 +28,7 @@ Imagine you’ve forgotten your phone at home and urgently need a contact number
 3. App listens for SMS commands in the background.
 4. When a valid command with the correct M-PIN is received, the corresponding task is performed and SMS reply is sent back.
 
-## Screenshorts Of Application
+## 📷 Screenshots Of Application
 
 ![1 SplashScreen](https://github.com/user-attachments/assets/9c016191-33f3-4733-b652-e41ea4cb498e)
 ![2 Intro1](https://github.com/user-attachments/assets/4b3156cd-69e6-455b-9847-851d462d0e44)
